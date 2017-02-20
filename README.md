@@ -1,2 +1,2 @@
 # zhihutopic
-To get a topic's followsers
+To get a topic's followers
